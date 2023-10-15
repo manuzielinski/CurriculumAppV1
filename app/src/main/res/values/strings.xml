@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Layouts en Android</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="name">Manuel Zielinski</string>
+    <string name="occupation">Software Engineer</string>
+    <string name="city">Posadas, Misiones</string>
+    <string name="num_followers">2342</string>
+    <string name="num_following">672</string>
+    <string name="posts">Posts</string>
+    <string name="num_posts">2345</string>
+    <string name="followers">Followers</string>
+    <string name="tittle">About Me</string>
+    <string name="corpse">¡Bienvenidos a mi mundo de desarrollo móvil! Soy Manuel Zielinski, estudiante de tercer año de Ingeniería en Sistemas de la Información en la prestigiosa Universidad de la Cuenca del Plata.
+        Mi pasión por la tecnología y el deseo de crear experiencias móviles excepcionales me han llevado a sumergirme en el emocionante mundo del desarrollo móvil de manera autodidacta.</string>
+    <string name="background">background</string>
+    <string name="following">Following</string>
+
+
+</resources>
